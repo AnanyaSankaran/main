@@ -1,4 +1,4 @@
-# Ananya Sanskaran
+# Ananya Sankaran
 
 Large images should always scale down and fit in the content container.
 
